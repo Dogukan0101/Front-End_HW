@@ -1,7 +1,7 @@
 # The First Repo
 
 It is the first repo I have created for a Front-End course whose name is [Kodluyoruz](https://www.kodluyoruz.org/). There is a README file and also an index.html file.
-[Photo](gitrepo.png)
+![Photo](https://github.com/Dogukan0101/FirstTimes/tree/main/image/myrepo.png)
 
 # Installiation
 
@@ -26,4 +26,4 @@ Pull requests are okay but if you want to change something just open a discussio
 
 ---
 
-[MIT]
+[MIT](https://opensource.org/licenses/MIT)
