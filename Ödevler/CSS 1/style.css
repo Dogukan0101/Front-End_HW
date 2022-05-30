@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+  list-style-position: inside;
+  font-family: sans-serif;
+}
+img {
+  border: 3px solid #555;
+}
+h5 {
+  font-style: italic;
+}
+h4 {
+  color: brown;
+}
