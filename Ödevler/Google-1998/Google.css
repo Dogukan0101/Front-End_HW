@@ -1,0 +1,17 @@
+body {
+  background-color: "#FFFFFF";
+  background: "/web/19981202230410im_/http://www.google.com/alpha.jpg";
+}
+.centerimg {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.fonts {
+  size: -1;
+}
+
+.centertrc {
+  text-align: center;
+}
