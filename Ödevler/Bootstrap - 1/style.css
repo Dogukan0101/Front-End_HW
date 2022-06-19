@@ -1,0 +1,37 @@
+body {
+  background-color: #e9ecef;
+  text-align: center;
+  list-style-position: inside;
+  font-family: sans-serif;
+}
+
+.jumbotron {
+  border: solid;
+}
+h4 {
+  color: #c68e17;
+}
+h1 {
+  font-size: 40px;
+  display: block;
+  margin: 15px;
+}
+
+.card-title {
+  color: #ddad75;
+}
+
+.card-price {
+  background-color: rgb(120, 119, 119);
+  color: aliceblue;
+  display: inline;
+  border-radius: 10%;
+  padding: 1.5px;
+}
+
+.hakkımızda {
+  color: white;
+  background-color: blue;
+  padding: 4px;
+  border-radius: 5px;
+}
