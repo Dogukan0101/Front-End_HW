@@ -1,0 +1,42 @@
+Insertion Sort:
+
+1)
+
+-[22,27,16,2,18,6]
+
+-[2,27,16,22,18,6]
+
+-[2,6,16,22,18,27]
+
+-[2,6,16,18,22,27]
+
+2) 
+
+Big O notation O(n^2)
+
+3)
+
+Average case: The number is in the middle of the list.
+
+Worst case: The number is at the end of the list.
+
+Best case: The number is at the beginning of the list.
+
+4)
+
+18 => Average Case
+
+5)
+
+- [7,3,5,8,2,9,4,15,6]
+
+- [2,7,3,5,8,9,4,15,6]
+
+- [2,3,7,5,8,9,4,15,6]
+
+- [2,3,4,7,5,8,9,15,6]
+
+- [2,3,4,5,7,8,9,15,6]
+
+
+
